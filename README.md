@@ -42,11 +42,6 @@ We aim to build a **one-stop platform** powered by **AI** that integrates:
 
 ---
 
-**🏆 Competitive Advantage:**  
-Unlike **PillPack** and **MediSafe**, our platform offers **AI-driven alerts** for both **drug and food interactions**, and predictive analysis for **hereditary diseases** 🧬.
-
----
-
 Our mission is to make **medication management smarter, safer, and more accessible** for everyone! By empowering patients with **AI insights** and helping them manage their **health proactively**, we aim to **reduce risks** and improve overall well-being. 🌟👩‍⚕️👨‍⚕️
 
 **Together, we are revolutionizing healthcare!** 💪💊
